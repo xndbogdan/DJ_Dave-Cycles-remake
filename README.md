@@ -16,7 +16,6 @@ The following third-party plugins are required to play this project correctly:
 
 ## ⚠️ Important Notes
 
-### Missing 'Raum' Plugin?
 If you do not own or have **Raum** installed, just **Disable** Track 3 and **Enable** Track 4.
 
 ## 📂 Project Structure
