@@ -1,7 +1,8 @@
 # Cycles Remake (DJ_Dave)
 
 This project is an Ableton Live remake of the song **"Cycles"** by **DJ_Dave**.
-Original song [Here](https://open.spotify.com/track/0suotaNKCJeJGC7FFRLxED?si=13281169c2974e17)
+
+You can listen to the original [here](https://open.spotify.com/track/0suotaNKCJeJGC7FFRLxED?si=13281169c2974e17)
 
 ## 📋 Requirements
 
