@@ -49,7 +49,3 @@ If you do not own or have **Raum** installed, just **Disable** Track 3 and **Ena
 
 - `CyclesRemake.als`: Main Ableton Live set file.
 - `Samples/`: Contains audio samples used in the project.
-
-```
-
-```
