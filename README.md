@@ -1,4 +1,27 @@
-# Cycles Remake (DJ_Dave)
+```
+ /$$$$$$$     /$$$$$       /$$$$$$$   /$$$$$$  /$$    /$$ /$$$$$$$$
+| $$__  $$   |__  $$      | $$__  $$ /$$__  $$| $$   | $$| $$_____/
+| $$  \ $$      | $$      | $$  \ $$| $$  \ $$| $$   | $$| $$
+| $$  | $$      | $$      | $$  | $$| $$$$$$$$|  $$ / $$/| $$$$$
+| $$  | $$ /$$  | $$      | $$  | $$| $$__  $$ \  $$ $$/ | $$__/
+| $$  | $$| $$  | $$      | $$  | $$| $$  | $$  \  $$$/  | $$
+| $$$$$$$/|  $$$$$$/      | $$$$$$$/| $$  | $$   \  $/   | $$$$$$$$
+|_______/  \______//$$$$$$|_______/ |__/  |__/    \_/    |________/
+                  |______/
+
+
+  /$$$$$$                      /$$
+ /$$__  $$                    | $$
+| $$  \__/ /$$   /$$  /$$$$$$$| $$  /$$$$$$   /$$$$$$$
+| $$      | $$  | $$ /$$_____/| $$ /$$__  $$ /$$_____/
+| $$      | $$  | $$| $$      | $$| $$$$$$$$|  $$$$$$
+| $$    $$| $$  | $$| $$      | $$| $$_____/ \____  $$
+|  $$$$$$/|  $$$$$$$|  $$$$$$$| $$|  $$$$$$$ /$$$$$$$/
+ \______/  \____  $$ \_______/|__/ \_______/|_______/
+           /$$  | $$
+          |  $$$$$$/
+           \______/
+```
 
 This project is an Ableton Live remake of the song **"Cycles"** by **DJ_Dave**.
 
@@ -7,10 +30,13 @@ You can listen to the original [here](https://open.spotify.com/track/0suotaNKCJe
 ## 📋 Requirements
 
 ### Software
+
 - **DAW**: Ableton Live 12.3.1 or higher
 
 ### VST Plugins
+
 The following third-party plugins are required to play this project correctly:
+
 - **Xfer Serum**
 - **Reveal Sound Spire**
 - **Native Instruments Raum**
@@ -20,5 +46,10 @@ The following third-party plugins are required to play this project correctly:
 If you do not own or have **Raum** installed, just **Disable** Track 3 and **Enable** Track 4.
 
 ## 📂 Project Structure
+
 - `CyclesRemake.als`: Main Ableton Live set file.
 - `Samples/`: Contains audio samples used in the project.
+
+```
+
+```
