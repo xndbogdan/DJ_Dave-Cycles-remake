@@ -43,7 +43,7 @@ The following third-party plugins are required to play this project correctly:
 
 ## ⚠️ Important Notes
 
-If you do not own or have **Raum** installed, just **Disable** Track 3 and **Enable** Track 4.
+If you do not own or have **Raum** installed, just **Disable** Track 10 and **Enable** Track 11.
 
 ## 📂 Project Structure
 
